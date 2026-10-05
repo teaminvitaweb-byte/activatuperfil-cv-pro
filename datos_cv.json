@@ -1,0 +1,72 @@
+{
+    "nombre": "Francisco Rivera",
+    "titulo": "Técnico de Soporte Técnico & Mesa de Ayuda (Help Desk)",
+    "foto_path": "C:\\Users\\DelmyG\\Downloads\\foto.jpeg",
+    "telefono": "+503 6838-2878",
+    "email": "frankbserrano@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/francisco-berr%C3%ADos-24rb2498/",
+    "ubicacion": "Apopa, San Salvador Oeste, El Salvador",
+    "habilidades": [
+      "Soporte Técnico Nivel 1 / Help Desk",
+      "Mantenimiento Preventivo & Correctivo de PC",
+      "Ensamble & Diagnóstico de Hardware",
+      "Gestión de Sistemas CRM, POS & ERP",
+      "Microsoft Office Avanzado (Excel, Word, PPT)",
+      "Atención al Cliente & Resolución de Incidencias"
+    ],
+    "idiomas": [
+      {"nombre": "Español", "nivel": "Nativo"},
+      {"nombre": "Inglés", "nivel": "Intermedio | Conversación, Lectura y Escritura"}
+    ],
+    "educacion": [
+      {
+        "titulo": "Hardware Computacional",
+        "institucion": "ITCA-FEPADE",
+        "estado": "2 años cursados",
+        "detalle": "Formación técnica especializada en informática, hardware, logística y análisis estructurado."
+      },
+      {
+        "titulo": "Bachillerato General - Proyecto Informático",
+        "institucion": "Colegio Santa Cruz",
+        "estado": "2015",
+        "detalle": "Graduado con honores académicos."
+      }
+    ],
+    "perfil": "Técnico en Informática y Soporte con sólida formación en Hardware Computacional y más de 5 años de experiencia combinada en asistencia técnica, resolución de incidencias y atención al usuario. Destacada habilidad en mantenimiento informático, gestión de software operativo/CRM y soporte a usuarios bajo entornos exigentes. Enfocado en la eficiencia operativa, diagnóstico rápido de fallos y excelencia en el servicio.",
+    "experiencia": [
+      {
+        "cargo": "Administrador & Encargado de Sistemas / Operaciones",
+        "empresa": "Organic Panama Trading",
+        "periodo": "Febrero 2021 – Agosto 2025",
+        "responsabilidades": [
+          "Administración y soporte de software operativo, sistemas POS (Facturas Script, POS BAC) y plataforma Shopify.",
+          "Manejo y control de inventario técnico, compras y coordinación de procesos operativos.",
+          "Atención de incidencias de clientes y resolución de requerimientos interdepartamentales.",
+          "Implementación de estrategias digitales y gestión técnica de plataformas sociales."
+        ]
+      },
+      {
+        "cargo": "Ejecutivo de Soporte & Ventas (Call Center)",
+        "empresa": "TELUS",
+        "periodo": "Enero 2017 – Septiembre 2019",
+        "responsabilidades": [
+          "Atención y soporte telefónico al usuario con enfoque en la resolución rápida de problemas.",
+          "Manejo de herramientas informáticas, bases de datos y sistemas CRM internos de atención.",
+          "Cumplimiento de métricas de servicio, trabajo bajo presión y gestión de incidencias de acuerdo a procedimientos."
+        ]
+      },
+      {
+        "cargo": "Técnico Auxiliar de Informática",
+        "empresa": "Informática Total",
+        "periodo": "Enero 2014 – Diciembre 2016",
+        "responsabilidades": [
+          "Mantenimiento preventivo y correctivo de computadoras de escritorio y laptops.",
+          "Ensamble, limpieza profunda y diagnóstico físico y lógico de equipos de cómputo.",
+          "Atención técnica a clientes, elaboración de cotizaciones de hardware y soporte comercial.",
+          "Manejo de herramientas de diseño y edición (Photoshop, Sony Vegas, After Effects)."
+        ]
+      }
+    ],
+    "informacion_adicional": "Disponibilidad inmediata. Manejo de software: Facturas Script, Shopify, Pipedrive, POS BAC, Canva, Photoshop.",
+    "referencias": "Referencias profesionales disponibles a solicitud."
+  }
